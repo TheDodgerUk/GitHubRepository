@@ -8,7 +8,7 @@
 
 void Test2()
 {
-	ConsoleLog::GetInstance()->Log("99999", "output 11");
+	//ConsoleLog::GetInstance()->Log("99999", "output 11");
 	ConsoleLog::GetInstance()->Log("99999", "output 12");
 	ConsoleLog::GetInstance()->Log("99999", "output 13");
 	ConsoleLog::GetInstance()->Log("99999", "output 14");
